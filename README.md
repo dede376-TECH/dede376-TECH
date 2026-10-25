@@ -2,6 +2,7 @@
 
 <p align="center">
   <b>Software Engineer · Full Stack .NET 8 / React / Java</b><br>
+  <i>Oracle Certified Professional Java SE 17</i><br>
   <sub>📍 Maroc</sub>
 </p>
 
@@ -22,6 +23,7 @@ Développeur Full Stack orienté **.NET 8 / C#** et **React**, avec de l'expéri
 
 - 🔧 Développeur Full Stack chez **DBM Maroc** (2025 – 2026)
 - 🎓 Licence Génie Informatique, **FST Beni Mellal**
+- 🎓 Master en **Intelligence Artificielle et Data Science**, **Université Sultan Moulay Slimane**
 - 🤖 Passionné par l'**Agentic AI** : création d'agents intelligents avec **Semantic Kernel** et le **Model Context Protocol (MCP)**
 
 ---
