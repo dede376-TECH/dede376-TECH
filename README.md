@@ -24,7 +24,7 @@ Développeur Full Stack orienté **.NET 8 / C#** et **React**, avec de l'expéri
 - 💼 Software Engineer chez **Capgemini** (depuis juin 2026)
 - 🔧 Avant : Développeur Full Stack chez **DBM Maroc** (2025 – 2026)
 - 🎓 Licence Génie Informatique, **FST Beni Mellal**
-- 🤖 Intéressé par l'IA et le **Model Context Protocol (MCP)**
+- 🤖 Passionné par l'**Agentic AI** : création d'agents intelligents avec **Semantic Kernel** et le **Model Context Protocol (MCP)**
 
 ---
 
@@ -61,6 +61,12 @@ Développeur Full Stack orienté **.NET 8 / C#** et **React**, avec de l'expéri
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?logo=githubactions&logoColor=white)
 
+**IA & Agents**
+
+![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-512BD4?logo=microsoft&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-8A2BE2)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-000000)
+
 **Qualité & architecture**
 
 `Clean Architecture` · `MVC` · `MVVM` · `REST / OpenAPI` · `Entity Framework Core` · `Dapper` · `xUnit` · `NUnit` · `JUnit` · `SonarQube` · `SignalR` · `WebSocket` · `JWT`
@@ -91,6 +97,7 @@ Chatbot et système de gestion de produits réalisés chez DBM Maroc.
 
 - ☕ **Oracle Certified Professional — Java SE 17 Developer (OCP)**
 - 🧠 **Model Context Protocol: Advanced Topics** — Anthropic (avril 2026)
+- 🎓 **Udemy** — C#, ASP.NET (.NET) et React (certificats de cours)
 - 🌐 Networking Devices and Initial Configuration — Cisco Networking Academy
 - ☁️ Cloud Computing Basics · Jira Fundamentals — Simplilearn
 
@@ -105,8 +112,8 @@ Français (courant) · Arabe (natif) · Anglais (professionnel)
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top langages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dede376-TECH&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dede376-TECH&layout=compact&theme=radical&hide_border=true" alt="Top langages" />
 </p>
 
 ---
