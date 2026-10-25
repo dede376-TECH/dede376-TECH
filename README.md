@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>Software Engineer · Full Stack .NET 8 / React / Java</b><br>
-  <i>Capgemini · Oracle Certified Professional Java SE 17</i><br>
   <sub>📍 Maroc</sub>
 </p>
 
@@ -21,8 +20,7 @@
 
 Développeur Full Stack orienté **.NET 8 / C#** et **React**, avec de l'expérience sur des applications web à fort trafic (**1 000+ utilisateurs actifs**). Je travaille en **Agile/Scrum** (code reviews, tests, livraison continue) et j'aime concevoir des architectures propres et maintenables.
 
-- 💼 Software Engineer chez **Capgemini** (depuis juin 2026)
-- 🔧 Avant : Développeur Full Stack chez **DBM Maroc** (2025 – 2026)
+- 🔧 Développeur Full Stack chez **DBM Maroc** (2025 – 2026)
 - 🎓 Licence Génie Informatique, **FST Beni Mellal**
 - 🤖 Passionné par l'**Agentic AI** : création d'agents intelligents avec **Semantic Kernel** et le **Model Context Protocol (MCP)**
 
